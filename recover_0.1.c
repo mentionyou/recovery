@@ -1,9 +1,3 @@
-/*
-* /extcarve/extcarve.c-ext2/ext3/ext4 Undelete Tool.
-*
-* Copyright (C) 2007,2008,2009,2010,2011 Lakshmipathi.G <lakshmipathi.g@gmail.com>
-* Visit www.giis.co.in for manuals or docs.
-*/
 
 #define _GNU_SOURCE
 #include <stdio.h>
